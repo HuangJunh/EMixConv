@@ -1,0 +1,1 @@
+rm -rf log main.log populations scripts running_record.log __pycache__ final_tt_record*

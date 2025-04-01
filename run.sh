@@ -1,0 +1,1 @@
+nohup python main.py >> ./running_record.log 2>&1 &
