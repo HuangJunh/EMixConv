@@ -3,7 +3,7 @@ J. Huang, B. Xue, Y. Sun, M. Zhang, and G. G. Yen, “Automated design of neural
 
 📑 [Read the Paper](https://www.sciencedirect.com/science/article/pii/S0031320325002651)
 
-## Citations
+## Citation
 ```bibtex
 @article{EMixConv,
   title={Automated design of neural networks with multi-scale convolutions via multi-path weight sampling},
